@@ -39,6 +39,7 @@ body {
 
 /*ШАМПКА*/
 .head01 {
+    src: url("./Mazurka\ script.ttf") format('truetype');
     font: 70px/60px Mazurka script;
     margin: -100px 0 0 0;
     justify-content: center;
