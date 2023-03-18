@@ -10,6 +10,10 @@ body {
     height: 100%;
     color: #e7dbdb;
 }
+@font-face { 
+    font-family: "Mazurka";
+    src: url("./font/Mazurka.woff") format("woff"); 
+}
 
 /*ЦВЕТЫ*/
 .flow1 {   
@@ -39,8 +43,9 @@ body {
 
 /*ШАМПКА*/
 .head01 {
-    src: url("./Mazurka\ script.ttf") format('truetype');
-    font: 70px/60px Mazurka script;
+    font-family: Mazurka;
+    font-size: 70px;
+    line-height: 70px;
     margin: -100px 0 0 0;
     justify-content: center;
     color: rgb(0, 0, 0);
