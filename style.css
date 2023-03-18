@@ -57,7 +57,7 @@ body {
     color: rgb(132, 118, 118);
 }
 .head03 {
-    font: 45px/100px Mazurka script;
+    font: 45px/100px Mazurka;
     justify-content: center;
     margin-top: -30px;
     color: rgb(0, 0, 0);
@@ -80,13 +80,13 @@ body {
 
 /*МЕСТО*/
 .mesto1 {
-    font: 45px/60px Mazurka script;
+    font: 45px/60px Mazurka;
     justify-content: center;
     margin-top: 80px;
     color: rgb(0, 0, 0);
 }
     .vremya {
-    font: 40px/60px Mazurka script;
+    font: 40px/60px Mazurka;
     justify-content: center;
     margin-top: -35px;
     color: rgb(0, 0, 0);
@@ -99,13 +99,13 @@ body {
     color: rgb(132, 118, 118);
 }
 .mesto01 {
-    font: 45px/60px Mazurka script;
+    font: 45px/60px Mazurka;
     justify-content: center;
     margin-top: 80px;
     color: rgb(0, 0, 0);
 }
     .vremya0 {
-    font: 40px/60px Mazurka script;
+    font: 40px/60px Mazurka;
     justify-content: center;
     margin-top: -35px;
     color: rgb(0, 0, 0);
@@ -120,7 +120,7 @@ body {
 
 /*РАСПИСАНИЕ ДНЯ*/
 .rasp {
-    font: 50px/60px Mazurka script;
+    font: 50px/60px Mazurka;
     justify-content: center;
     color: rgb(0, 0, 0);
 }
@@ -135,7 +135,7 @@ body {
     margin-left: 90px;
 }
     .img01 {
-    font: 30px/60px Mazurka script;
+    font: 30px/60px Mazurka;
     margin: -10px 0 0 -175px;
     justify-content: center;
     color: rgb(0, 0, 0);
@@ -153,7 +153,7 @@ body {
     margin: 10px 0 0 260px;
 }
     .img02 {
-    font: 30px/60px Mazurka script;
+    font: 30px/60px Mazurka;
     margin: 110px 0 0 170px;
     justify-content: center;
     color: rgb(0, 0, 0);
@@ -170,7 +170,7 @@ body {
     margin: 10px 0 0 90px;
 }
     .img03 {
-    font: 30px/60px Mazurka script;
+    font: 30px/60px Mazurka;
     margin: -10px 0 0 -175px;
     justify-content: center;
     color: rgb(0, 0, 0);
@@ -188,7 +188,7 @@ body {
     margin: 10px 0 0 260px;
 }
     .img04 {
-    font: 30px/60px Mazurka script;
+    font: 30px/60px Mazurka;
     margin: 110px 0 0 170px;
     justify-content: center;
     color: rgb(0, 0, 0);
@@ -205,7 +205,7 @@ body {
     margin: 10px 0 0 90px;
 }
     .img05 {
-    font: 30px/60px Mazurka script;
+    font: 30px/60px Mazurka;
     margin: -10px 0 0 -175px;
     justify-content: center;
     color: rgb(0, 0, 0);
@@ -248,7 +248,7 @@ body {
 
 .opros {
     margin-top: 100px;
-    font: 30px/35px Mazurka script;
+    font: 30px/35px Mazurka;
     justify-content: center;
     color: rgb(0, 0, 0);
 }
@@ -302,7 +302,7 @@ body {
     color: rgb(132, 118, 118);    
 }
 .nc2 {
-    font: 40px/50px Mazurka script;
+    font: 40px/50px Mazurka;
     justify-content: center;
     margin-left: -90px;
     margin-bottom: 50px;
